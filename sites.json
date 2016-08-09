@@ -2562,7 +2562,17 @@
             "mailchimp.com"
         ]
     },
-
+    
+        {
+        "name": "Mail.ru",
+        "url": "https://account.mail.ru/user/delete",
+        "difficulty": "easy",
+        "notes": "Login into your mail.ru account and open account deleting page. Press Delete button and enter some reason to delete your account and your password again and captcha code and press Delete button once again.",
+        "domains": [
+            "mail.ru"
+        ]
+    },
+    
     {
         "meta": "popular",
         "name": "Match",
