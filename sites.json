@@ -2983,7 +2983,8 @@
         "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
         "notes_es": "Entre en su cuenta, baje hasta 'License Agreement', pulse 'Delete profile', marque las casillas que desee, entre su contraseña  y haga clic en 'Remove'.",
         "domains": [
-            "odnoklassniki.ru"
+            "odnoklassniki.ru",
+            "ok.ru"
         ]
     },
 
@@ -4555,4 +4556,16 @@
             "zurker.com"
         ]
     }
+
+    {
+        "name": "HeahHunter",
+        "url": "https://hh.ru/account/delete_me",
+        "difficulty": "easy",
+        "notes": "Login to your account first, open this link then and select the reason for account deletion.",
+        "domains": [
+            "hh.ru",
+            "career.ru",
+            "headhunter.ru"
+        ]
+    },
 ]
